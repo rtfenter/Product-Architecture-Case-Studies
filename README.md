@@ -36,22 +36,17 @@ Each entry follows a consistent structure:
 
 ---
 
-## Case Studies (Coming Soon)
+## Case Studies
 
-### • Anthropic — Meaning Drift in Constrained Agents  
-*How safety rules, input trimming, and agent memory produce conflicting interpretations of user intent.*
+## Case Studies
 
-### • OpenAI — Retrieval Drift in Large Context Windows  
-*Why RAG still misaligns in large-input settings and how contracts could anchor truth.*
-
-### • Microsoft (Copilot) — Business Logic Misinterpretation  
-*Where copilots lose domain meaning due to missing contracts between LLM reasoning and enterprise data models.*
-
-### • Slack — Incident Interpretation Drift  
-*How teams slowly lose shared context in message-driven workflows.*
-
-### • Figma — Token Governance Across Multimarket Teams  
-*Where meaning forks when design tokens evolve faster than org-wide consensus.*
+| Case Study | Focus | Live Demo | Repo |
+|-----------|--------|-----------|------|
+| **Anthropic — Meaning Drift in Constrained Agents** | Safety layers, input trimming, memory loss → conflicting interpretations of user intent | https://rtfenter.github.io/AI-Agent-Meaning-Drift-Case-Study/ | https://github.com/rtfenter/AI-Agent-Meaning-Drift-Case-Study |
+| **OpenAI — Retrieval Drift in Large Context Windows** | How RAG misaligns in large-input settings; need for explicit truth anchors | coming soon | coming soon |
+| **Microsoft (Copilot) — Business Logic Misinterpretation** | Domain meaning lost due to missing contracts between LLM reasoning & enterprise schemas | coming soon | coming soon |
+| **Slack — Incident Interpretation Drift** | How shared context erodes in message-driven workflows | coming soon | coming soon |
+| **Figma — Token Governance Across Multimarket Teams** | Design token drift across orgs where meaning evolves faster than governance | coming soon | coming soon |
 
 ---
 
